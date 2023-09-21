@@ -1,0 +1,14 @@
+C:\Users\2022102020021\Downloads\txtsorvetes20-09-master\txtsorvetes20-09-master\Sorveteriatxt3\bin\Debug\Sorveteriatxt3.exe.config
+C:\Users\2022102020021\Downloads\txtsorvetes20-09-master\txtsorvetes20-09-master\Sorveteriatxt3\bin\Debug\Sorveteriatxt3.exe
+C:\Users\2022102020021\Downloads\txtsorvetes20-09-master\txtsorvetes20-09-master\Sorveteriatxt3\bin\Debug\Sorveteriatxt3.pdb
+C:\Users\2022102020021\Downloads\txtsorvetes20-09-master\txtsorvetes20-09-master\Sorveteriatxt3\obj\Debug\Sorveteriatxt3.csproj.AssemblyReference.cache
+C:\Users\2022102020021\Downloads\txtsorvetes20-09-master\txtsorvetes20-09-master\Sorveteriatxt3\obj\Debug\Sorveteriatxt3.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020021\Downloads\txtsorvetes20-09-master\txtsorvetes20-09-master\Sorveteriatxt3\obj\Debug\Sorveteriatxt3.Form4.resources
+C:\Users\2022102020021\Downloads\txtsorvetes20-09-master\txtsorvetes20-09-master\Sorveteriatxt3\obj\Debug\Sorveteriatxt3.Form3.resources
+C:\Users\2022102020021\Downloads\txtsorvetes20-09-master\txtsorvetes20-09-master\Sorveteriatxt3\obj\Debug\Sorveteriatxt3.Form2.resources
+C:\Users\2022102020021\Downloads\txtsorvetes20-09-master\txtsorvetes20-09-master\Sorveteriatxt3\obj\Debug\Sorveteriatxt3.Form1.resources
+C:\Users\2022102020021\Downloads\txtsorvetes20-09-master\txtsorvetes20-09-master\Sorveteriatxt3\obj\Debug\Sorveteriatxt3.Properties.Resources.resources
+C:\Users\2022102020021\Downloads\txtsorvetes20-09-master\txtsorvetes20-09-master\Sorveteriatxt3\obj\Debug\Sorveteriatxt3.csproj.GenerateResource.cache
+C:\Users\2022102020021\Downloads\txtsorvetes20-09-master\txtsorvetes20-09-master\Sorveteriatxt3\obj\Debug\Sorveteriatxt3.csproj.CoreCompileInputs.cache
+C:\Users\2022102020021\Downloads\txtsorvetes20-09-master\txtsorvetes20-09-master\Sorveteriatxt3\obj\Debug\Sorveteriatxt3.exe
+C:\Users\2022102020021\Downloads\txtsorvetes20-09-master\txtsorvetes20-09-master\Sorveteriatxt3\obj\Debug\Sorveteriatxt3.pdb
